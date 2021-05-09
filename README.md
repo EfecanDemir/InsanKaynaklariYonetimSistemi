@@ -10,5 +10,10 @@ Tüm oyuncular ve puan sıralamasında ilk beş en iyi oyuncuların verileri txt
 
 
 ## Giriş Bölümü
-![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/insanvideo.mp4)
+![banner resmi](https://github.com/EfecanDemir/InsanKaynaklariYonetimSistemi/blob/main/1.JPG)
 
+## Giriş Bölümü
+![banner resmi](https://github.com/EfecanDemir/InsanKaynaklariYonetimSistemi/blob/main/2.JPG)
+
+## Giriş Bölümü
+![banner resmi](https://github.com/EfecanDemir/InsanKaynaklariYonetimSistemi/blob/main/3.JPG)
