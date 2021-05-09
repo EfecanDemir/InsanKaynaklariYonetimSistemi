@@ -1,0 +1,101 @@
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.isbasvuru_giris.resources
+C:\Users\MONSTER\Desktop\android\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sirketkontrol_giris.resources
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\İrem Akalp\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\insankaynaklari\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Downloads\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\saheser\ccc\insankaynaklari\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
